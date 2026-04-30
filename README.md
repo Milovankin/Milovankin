@@ -30,18 +30,18 @@
   <!-- РАЗДЕЛИТЕЛЬ -->
   <p><span style="color:#555555;">✧ ✧ ✧ ✧ ✧ ✧ ✧</span></p>
   
-  <!-- ИКОНКИ СОЦСЕТЕЙ -->
-  <p>
+  <!-- ИКОНКИ СОЦСЕТЕЙ (FLEX — РАБОТАЕТ НА ТЕЛЕФОНЕ) -->
+  <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://instagram.com/MilonWay" target="_blank">
-      <img src="assets/instagram.png" width="100" height="100" alt="Instagram" style="margin: 0 20px;" />
+      <img src="assets/instagram.png" width="80" height="80" alt="Instagram" />
     </a>
     <a href="https://twitter.com/MilonWay" target="_blank">
-      <img src="assets/twitter.png" width="100" height="100" alt="Twitter" style="margin: 0 20px;" />
+      <img src="assets/twitter.png" width="80" height="80" alt="Twitter" />
     </a>
     <a href="https://t.me/MilonWay" target="_blank">
-      <img src="assets/telegram.png" width="100" height="100" alt="Telegram" style="margin: 0 20px;" />
+      <img src="assets/telegram.png" width="80" height="80" alt="Telegram" />
     </a>
-  </p>
+  </div>
   
   <!-- ФИЛОСОФСКАЯ ФРАЗА -->
   <p><i style="color:#cccccc;">Between code and matter, I alone am the link.</i></p>
