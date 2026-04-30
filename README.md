@@ -11,7 +11,7 @@
   
   <br/>
   
-  <!-- ТЕХНОЛОГИИ -->
+  <!-- ТЕХНОЛОГИИ (цветные значки) -->
   <p>
     <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -25,28 +25,31 @@
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   </p>
 
-  <!-- СОЦСЕТИ (ТВОИ ИКОНКИ С ПРОЗРАЧНЫМ ФОНОМ) -->
-  <p>
-    <a href="https://instagram.com/MilonWay" target="_blank">
-      <img src="assets/instagram.png" width="48" height="48" alt="Instagram" />
-    </a>
-    <a href="https://twitter.com/MilonWay" target="_blank">
-      <img src="assets/twitter.png" width="48" height="48" alt="Twitter" />
-    </a>
-    <a href="https://t.me/MilonWay" target="_blank">
-      <img src="assets/telegram.png" width="48" height="48" alt="Telegram" />
-    </a>
-  </p>
-
   <br/>
   
-  <!-- РАЗДЕЛИТЕЛИ -->
+  <!-- РАЗДЕЛИТЕЛЬ ПЕРВЫЙ -->
   <p><span style="color:#555555;">✧ ✧ ✧ ✧ ✧ ✧ ✧</span></p>
   
+  <!-- ИКОНКИ СОЦСЕТЕЙ (ГОРИЗОНТАЛЬНО В РЯД, РАЗМЕР 64x64) -->
+  <p>
+    <a href="https://instagram.com/MilonWay" target="_blank">
+      <img src="assets/instagram.png" width="64" height="64" alt="Instagram" style="margin: 0 10px;" />
+    </a>
+    <a href="https://twitter.com/MilonWay" target="_blank">
+      <img src="assets/twitter.png" width="64" height="64" alt="Twitter" style="margin: 0 10px;" />
+    </a>
+    <a href="https://t.me/MilonWay" target="_blank">
+      <img src="assets/telegram.png" width="64" height="64" alt="Telegram" style="margin: 0 10px;" />
+    </a>
+  </p>
+  
+  <!-- ФИЛОСОФСКАЯ ФРАЗА -->
   <p><i style="color:#cccccc;">Between code and matter, I alone am the link.</i></p>
   
+  <!-- РАЗДЕЛИТЕЛЬ ВТОРОЙ -->
   <p><span style="color:#555555;">—————</span></p>
   
+  <!-- ПОДПИСЬ -->
   <p><code style="color:#aaaaaa;">MilonWay</code></p>
   
 </div>
