@@ -11,7 +11,7 @@
   
   <br/>
   
-  <!-- ТЕХНОЛОГИИ (цветные значки) -->
+  <!-- ТЕХНОЛОГИИ -->
   <p>
     <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -27,29 +27,25 @@
 
   <br/>
   
-  <!-- РАЗДЕЛИТЕЛЬ ПЕРВЫЙ -->
   <p><span style="color:#555555;">✧ ✧ ✧ ✧ ✧ ✧ ✧</span></p>
   
-  <!-- ИКОНКИ СОЦСЕТЕЙ (ГОРИЗОНТАЛЬНО В РЯД, РАЗМЕР 64x64) -->
+  <!-- ИКОНКИ СОЦСЕТЕЙ -- ВСТАВЬ ТОЧНОЕ ИМЯ ФАЙЛА INSTAGRAM -->
   <p>
     <a href="https://instagram.com/MilonWay" target="_blank">
-      <img src="assets/instagram.png" width="64" height="64" alt="Instagram" style="margin: 0 10px;" />
+      <img src="assets/instagram.png" width="80" height="80" alt="Instagram" style="margin: 0 15px;" />
     </a>
     <a href="https://twitter.com/MilonWay" target="_blank">
-      <img src="assets/twitter.png" width="64" height="64" alt="Twitter" style="margin: 0 10px;" />
+      <img src="assets/twitter.png" width="80" height="80" alt="Twitter" style="margin: 0 15px;" />
     </a>
     <a href="https://t.me/MilonWay" target="_blank">
-      <img src="assets/telegram.png" width="64" height="64" alt="Telegram" style="margin: 0 10px;" />
+      <img src="assets/telegram.png" width="80" height="80" alt="Telegram" style="margin: 0 15px;" />
     </a>
   </p>
   
-  <!-- ФИЛОСОФСКАЯ ФРАЗА -->
   <p><i style="color:#cccccc;">Between code and matter, I alone am the link.</i></p>
   
-  <!-- РАЗДЕЛИТЕЛЬ ВТОРОЙ -->
   <p><span style="color:#555555;">—————</span></p>
   
-  <!-- ПОДПИСЬ -->
   <p><code style="color:#aaaaaa;">MilonWay</code></p>
   
 </div>
