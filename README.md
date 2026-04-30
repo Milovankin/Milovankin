@@ -6,12 +6,12 @@
   <br/>
   <br/>
   
-  <!-- МЕРЦАЮЩИЙ ЗАГОЛОВОК (РАБОТАЕТ) -->
+  <!-- МЕРЦАЮЩИЙ ЗАГОЛОВОК -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Backend+Developer" />
   
   <br/>
   
-  <!-- ТЕХНОЛОГИИ (ТЕПЕРЬ С ИКОНКАМИ) -->
+  <!-- ТЕХНОЛОГИИ -->
   <p>
     <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -27,29 +27,25 @@
 
   <br/>
   
-  <!-- РАЗДЕЛИТЕЛЬ -->
   <p><span style="color:#555555;">✧ ✧ ✧ ✧ ✧ ✧ ✧</span></p>
   
-  <!-- ИКОНКИ СОЦСЕТЕЙ (БЕЗ ТАБЛИЦЫ, ПРОСТО В РЯД) -->
+  <!-- ИКОНКИ СОЦСЕТЕЙ (ТЕПЕРЬ 100x100) -->
   <p>
     <a href="https://instagram.com/MilonWay" target="_blank">
-      <img src="assets/instagram.png" width="64" height="64" alt="Instagram" style="margin: 0 10px;" />
+      <img src="assets/instagram.png" width="100" height="100" alt="Instagram" style="margin: 0 20px;" />
     </a>
     <a href="https://twitter.com/MilonWay" target="_blank">
-      <img src="assets/twitter.png" width="64" height="64" alt="Twitter" style="margin: 0 10px;" />
+      <img src="assets/twitter.png" width="100" height="100" alt="Twitter" style="margin: 0 20px;" />
     </a>
     <a href="https://t.me/MilonWay" target="_blank">
-      <img src="assets/telegram.png" width="64" height="64" alt="Telegram" style="margin: 0 10px;" />
+      <img src="assets/telegram.png" width="100" height="100" alt="Telegram" style="margin: 0 20px;" />
     </a>
   </p>
   
-  <!-- ФИЛОСОФСКАЯ ФРАЗА -->
   <p><i style="color:#cccccc;">Between code and matter, I alone am the link.</i></p>
   
-  <!-- РАЗДЕЛИТЕЛЬ -->
   <p><span style="color:#555555;">—————</span></p>
   
-  <!-- ПОДПИСЬ -->
   <p><code style="color:#aaaaaa;">MilonWay</code></p>
   
 </div>
