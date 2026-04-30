@@ -1,17 +1,14 @@
 <div align="center">
   
-  <!-- БАННЕР СО ЖНЕЦОМ -->
   <img width="100%" alt="Grim Reaper Banner" src="assets/banner.png" />
   
   <br/>
   <br/>
   
-  <!-- МЕРЦАЮЩИЙ ЗАГОЛОВОК -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Backend+Developer" />
   
   <br/>
   
-  <!-- ТЕХНОЛОГИИ (ПРИГЛУШЁННЫЕ ЦВЕТА НА ЧЁРНОМ) -->
   <p>
     <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=0a0f0f&labelColor=0a0f0f" /></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0a0f0f&labelColor=0a0f0f" /></a>
@@ -27,10 +24,8 @@
 
   <br/>
   
-  <!-- РАЗДЕЛИТЕЛЬ -->
   <p><span style="color:#555555;">✧ ✧ ✧ ✧ ✧ ✧ ✧</span></p>
   
-  <!-- ИКОНКИ СОЦСЕТЕЙ (FLEX — РАБОТАЕТ НА ТЕЛЕФОНЕ) -->
   <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://instagram.com/MilonWay" target="_blank">
       <img src="assets/instagram.png" width="80" height="80" alt="Instagram" />
@@ -43,13 +38,10 @@
     </a>
   </div>
   
-  <!-- ФИЛОСОФСКАЯ ФРАЗА -->
   <p><i style="color:#cccccc;">Between code and matter, I alone am the link.</i></p>
   
-  <!-- РАЗДЕЛИТЕЛЬ -->
   <p><span style="color:#555555;">—————</span></p>
   
-  <!-- ПОДПИСЬ -->
   <p><code style="color:#aaaaaa;">MilonWay</code></p>
   
 </div>
