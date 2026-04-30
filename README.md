@@ -11,25 +11,26 @@
   
   <br/>
   
-  <!-- ТЕХНОЛОГИИ -->
+  <!-- ТЕХНОЛОГИИ (ПРИГЛУШЁННЫЕ ЦВЕТА НА ЧЁРНОМ) -->
   <p>
-    <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
-    <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-    <a href="https://www.swift.org/" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /></a>
-    <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+    <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=0a0f0f&labelColor=0a0f0f" /></a>
+    <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0a0f0f&labelColor=0a0f0f" /></a>
+    <a href="https://www.swift.org/" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&color=0a0f0f&labelColor=0a0f0f" /></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&color=0a0f0f&labelColor=0a0f0f" /></a>
   </p>
 
   <p>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-    <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=0a0f0f&labelColor=0a0f0f" /></a>
+    <a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&color=0a0f0f&labelColor=0a0f0f" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=0a0f0f&labelColor=0a0f0f" /></a>
   </p>
 
   <br/>
   
+  <!-- РАЗДЕЛИТЕЛЬ -->
   <p><span style="color:#555555;">✧ ✧ ✧ ✧ ✧ ✧ ✧</span></p>
   
-  <!-- ИКОНКИ СОЦСЕТЕЙ (ТЕПЕРЬ 100x100) -->
+  <!-- ИКОНКИ СОЦСЕТЕЙ -->
   <p>
     <a href="https://instagram.com/MilonWay" target="_blank">
       <img src="assets/instagram.png" width="100" height="100" alt="Instagram" style="margin: 0 20px;" />
@@ -42,10 +43,13 @@
     </a>
   </p>
   
+  <!-- ФИЛОСОФСКАЯ ФРАЗА -->
   <p><i style="color:#cccccc;">Between code and matter, I alone am the link.</i></p>
   
+  <!-- РАЗДЕЛИТЕЛЬ -->
   <p><span style="color:#555555;">—————</span></p>
   
+  <!-- ПОДПИСЬ -->
   <p><code style="color:#aaaaaa;">MilonWay</code></p>
   
 </div>
